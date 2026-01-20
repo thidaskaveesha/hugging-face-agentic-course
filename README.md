@@ -34,7 +34,7 @@ ollama pull qwen2:7b
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/hugging-face-agentic-course.git
+git clone https://github.com/thidaskaveesha/hugging-face-agentic-course.git
 cd hugging-face-agentic-course
 ```
 
@@ -54,11 +54,15 @@ Activate the virtual environment:
 source venv/bin/activate
 ```
 
-**On Windows:**
+**On Windows (git bash):** 
 ```bash
-venv\\Scripts\\activate
+source venv/Scripts/activate
 ```
 
+Deactivate the virtual environment:
+```bash
+deactivate
+```
 ---
 
 ### 4️⃣ Install Dependencies
