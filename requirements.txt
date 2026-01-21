@@ -1,2 +1,3 @@
 smolagents[litellm]
 transformers
+huggingface_hub
